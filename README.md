@@ -13,3 +13,6 @@ This is a react app to check your typing ability and spreed. and for me to ckeck
 4) [html2canvas](https://www.npmjs.com/package/html2canvas)
 5) [faker.js-for-random-ata](https://fakerjs.dev/)
 6) [framer-motion](https://www.npmjs.com/package/framer-motion)
+
+## Live Site:
+[My typing game](https://jobayer-typing-game.netlify.app/)
